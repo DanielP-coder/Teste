@@ -1,0 +1,7 @@
+print ("5+2= ",5+2)
+print ("5-2=",5-2)
+print ("5*2=",5*2)
+print ("5/2=",5/2)
+print ("A divisão inteira de 5 por 2 é ",5//2)
+print ("5 elevado ao quadrado é ",5**2)
+print ("O resto da divisão de 5 por dois é ",5%2)

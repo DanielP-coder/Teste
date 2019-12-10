@@ -1,0 +1,7 @@
+nome = str (input("Digite o seu nome: ")).strip()
+print ("Analisando nome.......")
+print ("O seu nome em letras maiúsculas é {}".format (nome.upper()))
+print ("O seu nome em letras minúsculas é {}".format (nome.lower()))
+print ("O seu nome tem {} letra".format(len(nome) - (nome.count (" "))))
+separa = nome.split()
+print (separa)

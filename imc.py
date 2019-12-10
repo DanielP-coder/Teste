@@ -1,0 +1,6 @@
+peso = float (input("Diga seu peso: "))
+alt = float (input("Qual a sua altura: "))
+print ("-=-"*10)
+print ("Calculando o IMC")
+imc = peso/ (alt*alt)
+print ("{:.2f}".format(imc))
